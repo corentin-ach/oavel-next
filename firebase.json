@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "oavel",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
